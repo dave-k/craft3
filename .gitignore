@@ -1,0 +1,11 @@
+.DS_Store
+/.env
+/.idea
+/vendor
+.DS_Store
+/Capfile
+/lib
+/config/deploy
+/config/deploy.rb
+/config/db.php
+/storage/*
