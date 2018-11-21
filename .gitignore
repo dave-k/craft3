@@ -1,5 +1,6 @@
 .DS_Store
 /.env
+/.env.production
 /.idea
 /vendor
 .DS_Store
@@ -7,5 +8,5 @@
 /lib
 /config/deploy
 /config/deploy.rb
-/config/db.php
 /storage/*
+/log
